@@ -1,1 +1,3 @@
-Project created with create vite. 2:00:00
+Project created with create vite.
+
+Use technologies Tailwind CSS, React JS, Three JS.
